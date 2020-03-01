@@ -1,10 +1,11 @@
 {
-  "name": "js-hook",
+  "name": "hooking",
   "version": "1.0.0",
   "description": "Cross-platform alternative way of handling events",
   "main": "lib/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "publish": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
